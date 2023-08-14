@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ujjwaldev6444
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning data science.
+- 👋 Hi, I’m a Data Scientist call me Ujjwal.
+- 👀 I’m interested in data analysis and data science.
+- 🌱 I’m currently learning machine learning and AI.
 - 💞️ I’m looking to collaborate on data analyst project.
 - 📫 How to reach me is simply mail me at ujjwaldev6444@gmail.com
 
